@@ -5,5 +5,5 @@
 - Work with Any ESX jobs
 - Simple optimized script
 - Work with default fivem chat system
-
+- Only players with X job can see the messages and use the commands
 
